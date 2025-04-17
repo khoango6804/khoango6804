@@ -72,7 +72,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/qu%E1%BB%91c-anh-khoa-ng%C3%B4-548925308/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/khoa.ngo.25590"><img src="https://img.shields.io/badge/-Facebook-%231DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://lunovain.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://khoango.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
