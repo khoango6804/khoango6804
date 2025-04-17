@@ -1,6 +1,6 @@
 <h1 align="center">🔥 KhoaNgo in the Zone 🔥</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=500&fontSize=25&lines=AI+Engineer+in+the+Making...;Code.+Sweat.+Repeat+%F0%9F%92%AA;A+winner+never+stops+trying;Work+smarter+not+harder;No+pain+no+gain" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=500&fontSize=25&lines=AI+Engineer+in+the+Making...;Code.+Sweat.+Repeat+%F0%9F%92%AA;A+winner+never+stops+trying;Work+smarter+not+harder;No+pain+no+gain;All+for+one,+one+for+all;I+can’t,+you+can’t+but+we+can;Nothing+is+impossible;There+is+a+will,+there+is+a+way" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 👨‍💻 AI Intern | RESFES 2025 Champion  
+- 👨‍💻 AI Engineer/ AI Analyst | TOP 3 RESFES 2025   
 - 🧩 Interested in applied AI for mental health & daily life  
 - 🏋️‍♂️ Big fan of sports – sweat clears the mind  
 - 🛠️ Currently working on:  
