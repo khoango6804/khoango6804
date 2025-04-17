@@ -16,7 +16,7 @@
 - 🛠️ Currently working on:  
   `Stress-Aware Recommender` | `Glody Advisor` | `YOLOv11 Pest24` | *[Add your project here]*
 
->  "Genius is one percent inspiration and ninety-nine percent perspiration."_  – Thomas Edison
+>  "Genius is one percent inspiration and ninety-nine percent perspiration."  – Thomas Edison
 
 ---
 
