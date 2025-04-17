@@ -22,13 +22,11 @@
 
 ## ⚙️ Tech Arsenal
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=flat)
-
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat) 
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=flat) 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ---
 
 ## 🚀 Featured Projects
