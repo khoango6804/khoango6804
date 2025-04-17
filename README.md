@@ -55,7 +55,7 @@
 ---
 
 ## 📊 Leetcode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/lunovian?theme=dark&font=Fira+Code)](https://leetcode.com/lunovian)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/KhoaNgoo?theme=dark&font=Fira+Code)](https://leetcode.com/u/KhoaNgoo)
 
 ---
 
