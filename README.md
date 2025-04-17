@@ -14,7 +14,7 @@
 - 🧩 Interested in applied AI for mental health & daily life  
 - 🏋️‍♂️ Big fan of sports – sweat clears the mind  
 - 🛠️ Currently working on:  
-  `Stress-Aware Recommender` | `Glody Advisor` | `YOLOv11 Pest24` | *[Add your project here]*
+  `AI Tool for Room Decoration` | `Glody Web` | `Handwriting Text Detection` |  `Insect Detection`
 
 >  "Genius is one percent inspiration and ninety-nine percent perspiration."  – Thomas Edison
 
@@ -33,10 +33,10 @@
 
 | 🛠️ Project | 🚀 Description |
 |------------|----------------|
-| **Stress-Aware Recommender** | Personalized mental wellness advice based on stress levels + lifestyle. |
-| **Glody AI Advisor** | AI platform for studying abroad guidance and school matching. |
-| **YOLOv11 - Pest24** | Advanced object detection model for agricultural pests. |
-| **[Your Fourth Project]** | *You can fill this in with anything you're proud of!* |
+| **AI tool for room decoration** | Harnessing Diffusion Model for Interior Design |
+| **Glody Web**               | AI-powered study abroad platform that helps students find the right schools based on their profiles. |
+| **Handwriting Text Detection** | Deep learning-based system to detect and recognize handwritten text in images. |
+| **Insect Detection**        | AI tool for identifying agricultural pests to support smarter and faster crop protection. |
 
 ---
 
