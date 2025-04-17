@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 👨‍💻 AI Engineer/AI Analyst | TOP 3 RESFES 2025 
+- 👨‍💻 AI Engineer/AI Analyst | TOP 3 RESFES 2025 at FPTUniersity
 - 🧩 Interested in applied AI for mental health & daily life  
 - 🏋️‍♂️ Big fan of sports – sweat clears the mind  
 - 🛠️ Currently working on:  
