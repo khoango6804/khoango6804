@@ -53,6 +53,12 @@
 </p>
 
 ---
+## 💻 Skills
+
+- **Programming Languages**: Python (master), SQL, R, C++, JavaScript
+- **Software Tools**: Microsoft Office, PowerBI, Latex, Git & GitHub
+
+---
 
 ## 📊 Leetcode Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/KhoaNgoo?theme=dark&font=Fira+Code)](https://leetcode.com/u/KhoaNgoo)
